@@ -126,7 +126,7 @@ M001,Paracetamol,4.00,30,Mankind,05/10/2025,0
 - **Memory Management**: Automatic cleanup with smart pointers
 - **Exception Handling**: Proper error handling for data parsing
 
-## Future Enhancements
+## Possible Enhancements
 
 - [ ] GUI interface using Qt or similar framework
 - [ ] Database integration (MySQL/PostgreSQL)
