@@ -1,0 +1,5 @@
+product_id,name,price,quantity,brand,warranty_months
+E001,Laptop,67998.000000,5,Dell,9
+E002,Keyboard,599.000000,15,HP,9
+E003,USB Cables,150.000000,25,Boat,6
+E004,Mouse,399.000000,10,HP,6

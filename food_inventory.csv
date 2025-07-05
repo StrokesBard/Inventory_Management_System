@@ -1,0 +1,4 @@
+product_id,name,price,quantity,expiry_date,is_organic
+F001,Apples,21.000000,50,18/07/2025,1
+F002,Bread,30.000000,8,07/07/2025,0
+F003,Chocolates,20.000000,50,07/07/2026,0

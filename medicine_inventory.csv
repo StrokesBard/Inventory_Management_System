@@ -1,0 +1,4 @@
+product_id,name,price,quantity,manufacturer,expiry_date,prescription_required
+M001,Paracetamol,4.000000,30,Mankind,05/10/2025,0
+M002,Vitamin A Tablets,5.000000,60,Mankind,25/06/2026,0
+M003,Antibiotics,16.000000,40,Mankind,24/04/2026,1
